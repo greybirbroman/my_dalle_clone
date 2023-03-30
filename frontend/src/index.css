@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .input-primary {
+    @apply w-full bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#4649ff] focus:border-[#4649ff] outline-none block p-3
+  }
+  .btn-share-primary {
+    @apply mt-3 text-white bg-[#6469ff] font-medium rounded-md text-sm w-full sm:w-auto px-5 py-2.5 text-center
+  }
+  .btn-generate-primary {
+    @apply text-white bg-green-700 font-medium rounded-md text-sm w-full sm:w-auto px-5 py-2.5 text-center
+  }
+}
+
+
 * {
   font-family: 'Inter', sans-serif;
 }
