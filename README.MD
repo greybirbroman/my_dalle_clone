@@ -1,7 +1,7 @@
 <h1>My DALL-E Clone App</h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ebb2240-d658-4788-81df-cc7e00e52efa/deploy-status)](https://app.netlify.com/sites/romansdalle/deploys)
 
-___
 ![react](https://img.shields.io/badge/React-F5F5F5?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![openai](https://img.shields.io/badge/OpenAiAPI-F5F5F5?style=for-the-badge&logo=openaipi&logoColor=#61DAFB)
 ![mongodb](https://img.shields.io/badge/Mongodb-F5F5F5?style=for-the-badge&logo=mongodb&logoColor=#61DAFB)
